@@ -32,10 +32,15 @@ sampadak.exe <file_1> <file_2> <file_3>...<file_N>
 > Note: <file_1> = provide filename with fullpath without <> bracket.
 
 ### - Documents List Viewer, Filesystem Viewer, Project Viewer
+We provide three viewer - **Document list**, **Filesystem**, **Project** on **Left Side** of the app. Each having seperate functionality, described as follows:
+
+- Documents List Viewer
 ![documents_pane](https://user-images.githubusercontent.com/13361448/46593064-0598f800-cae6-11e8-9e8a-e6718eb45e4f.png)
 
+- Filesystem Viewer
 ![filesystem_pane](https://user-images.githubusercontent.com/13361448/46593069-1cd7e580-cae6-11e8-86c5-ede36302f273.png)
 
+- Project Viewer
 ![projects_pane](https://user-images.githubusercontent.com/13361448/46593074-35e09680-cae6-11e8-9623-88ab3192226e.png)
 
 #### Goto Line Numbers
