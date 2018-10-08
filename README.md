@@ -34,13 +34,13 @@ sampadak.exe <file_1> <file_2> <file_3>...<file_N>
 ### - Documents List Viewer, Filesystem Viewer, Project Viewer
 We provide three viewer - **Document list**, **Filesystem**, **Project** on **Left Side** of the app. Each having seperate functionality, described as follows:
 
-- Documents List Viewer
+- **Documents List Viewer**
 
 Store all the document names those are opened on Sampadak. User can change **current editor** tab by clicking on the desired document name from the list.
 
 ![documents_pane](https://user-images.githubusercontent.com/13361448/46593064-0598f800-cae6-11e8-9e8a-e6718eb45e4f.png)
 
-- Filesystem Viewer
+- **Filesystem Viewer**
 
 Filesystem viewer is a replica of `System File/Folder hierarchy` which help user to open document directly by `double click` on any document. 
 
@@ -48,7 +48,14 @@ User can add **Project Folder** (which described below) from Filesystem Viewer u
 
 ![filesystem_pane](https://user-images.githubusercontent.com/13361448/46593069-1cd7e580-cae6-11e8-86c5-ede36302f273.png)
 
-- Project Viewer
+- **Project Viewer**
+Project Viewer store all the project direcories which are added through various options. `Each project folder is a representation of that folder on System Folder/File hierarchy`.
+
+User can add projeoct folder using any of the following option:
+- `From menu item. Goto File -> Open -> Project Folder...` or <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd>
+- `Click on Project Folder (3rd item) on Toolbar`.
+- `On Filesystem Viewer, select folder (which you want to replace in Project viewer). Then do RMB and click 'Add Project Folder' option`.
+
 ![projects_pane](https://user-images.githubusercontent.com/13361448/46593074-35e09680-cae6-11e8-9623-88ab3192226e.png)
 
 #### Goto Line Numbers
