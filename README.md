@@ -2,7 +2,7 @@
 A Text editor which support Unicode.
 
 An `open-source project` which supports all major Operating System - **Windows, Linux, MacOS**.
-Sampadak editor is `QT framework` based.
+Sampadak editor is based on `QT framework`.
 
 ![Light Color Scheme](https://user-images.githubusercontent.com/13361448/46593423-7f7eb080-cae9-11e8-8a21-0443bdfa6544.png)
 ![Dark Color Scheme](https://user-images.githubusercontent.com/13361448/46593429-8b6a7280-cae9-11e8-9b85-3e50135e4ce0.png)
