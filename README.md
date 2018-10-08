@@ -35,9 +35,17 @@ sampadak.exe <file_1> <file_2> <file_3>...<file_N>
 We provide three viewer - **Document list**, **Filesystem**, **Project** on **Left Side** of the app. Each having seperate functionality, described as follows:
 
 - Documents List Viewer
+
+Store all the document names those are opened on Sampadak. User can change **current editor** tab by clicking on the desired document name from the list.
+
 ![documents_pane](https://user-images.githubusercontent.com/13361448/46593064-0598f800-cae6-11e8-9e8a-e6718eb45e4f.png)
 
 - Filesystem Viewer
+
+Filesystem viewer is a replica of `System File/Folder hierarchy` which help user to open document directly by `double click` on any document. 
+
+User can add **Project Folder** (which described below) from Filesystem Viewer using RMB menu on the selected folder.
+
 ![filesystem_pane](https://user-images.githubusercontent.com/13361448/46593069-1cd7e580-cae6-11e8-86c5-ede36302f273.png)
 
 - Project Viewer
