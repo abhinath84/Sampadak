@@ -21,6 +21,7 @@ Sampadak supports most of the common text editor features. Below is the list of 
 - Preferences
 - Report a problem
 
+
 #### Documents List, Filesystem, Project panel
 ![documents_pane](https://user-images.githubusercontent.com/13361448/46593064-0598f800-cae6-11e8-9e8a-e6718eb45e4f.png)
 
