@@ -55,9 +55,11 @@ Project Viewer store all the project direcories which are added through various 
 User can add projeoct folder using any of the following option:
 - `From menu item. Goto File -> Open -> Project Folder...` or <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd>
 - `Click on Project Folder (3rd item) on Toolbar`.
-- `On Filesystem Viewer, select folder (which you want to replace in Project viewer). Then do RMB and click 'Add Project Folder' option`.
+- `On Filesystem Viewer, select folder (which you want to add as Project). Then do RMB and click 'Add Project Folder' option`.
 
 ![projects_pane](https://user-images.githubusercontent.com/13361448/46593074-35e09680-cae6-11e8-9623-88ab3192226e.png)
+
+#### Remember last session
 
 #### Goto Line Numbers
 
