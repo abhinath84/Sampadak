@@ -49,6 +49,7 @@ User can add **Project Folder** (which described below) from Filesystem Viewer u
 ![filesystem_pane](https://user-images.githubusercontent.com/13361448/46593069-1cd7e580-cae6-11e8-86c5-ede36302f273.png)
 
 - **Project Viewer**
+
 Project Viewer store all the project direcories which are added through various options. `Each project folder is a representation of that folder on System Folder/File hierarchy`.
 
 User can add projeoct folder using any of the following option:
