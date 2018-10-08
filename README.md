@@ -11,6 +11,7 @@ Sampadak editor is based on `QT framework`.
 ## Features
 Sampadak supports most of the common text editor features. Below is the list of it's **higlighing** features:
 
+- Command prompt support
 - Documents List Viewer, Filesystem Viewer, Project Viewer
 - Remember last session.
 - Go to lines
