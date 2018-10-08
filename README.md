@@ -1,5 +1,6 @@
 # Sampadak
 A Text editor which support Unicode.
+
 It's supports Windows, Linux, MacOS.
 Sampadak editor is QT framework based.
 
