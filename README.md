@@ -22,8 +22,16 @@ Sampadak supports most of the common text editor features. Below is the list of 
 - Preferences
 - Report a problem
 
+### - Command prompt support
 
-#### Documents List, Filesystem, Project panel
+User can execute sampadak from command prompt. Open any shell and execute following command:
+```
+sampadak.exe <file_1> <file_2> <file_3>...<file_N>
+```
+
+> Note: <file_1> = provide filename with fullpath without <> bracket.
+
+### - Documents List Viewer, Filesystem Viewer, Project Viewer
 ![documents_pane](https://user-images.githubusercontent.com/13361448/46593064-0598f800-cae6-11e8-9e8a-e6718eb45e4f.png)
 
 ![filesystem_pane](https://user-images.githubusercontent.com/13361448/46593069-1cd7e580-cae6-11e8-86c5-ede36302f273.png)
