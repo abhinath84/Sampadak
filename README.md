@@ -85,24 +85,73 @@ Sampadak will open following red marked dialog.
 ![gotoline](https://user-images.githubusercontent.com/13361448/46593088-66283500-cae6-11e8-9121-4168a19a803c.png)
 
 ### 5. Syntax Highlighter
+Syntax highlighting is an essential component for every user who is dealing with code. Sampadak also provide this feature to speed up the work of those people.
+
+Currently, we support **Syntax highlighting** for following file type:
+
+`c, cpp, java, js, html, php, jsp, xml, css`
+
+In future we will add sytan highlighting support for more file type.
 
 ![syntax](https://user-images.githubusercontent.com/13361448/46593095-8526c700-cae6-11e8-8aa6-91f3030a5a84.png)
 
 ### 6. Find/Replace
+We made searching simple & robust. We integarted Find/Replace dialog at the bottom of the editor, so that user can freely access editor while doing search.
+
+User can execute find by clicking `Search -> Find` or <kbd>Ctrl</kbd> + <kbd>F</kbd>.
+
+And replace by `Search -> Replace` or <kbd>Ctrl</kbd> + <kbd>H</kbd>.
+
+To do find next, user can do any of following:
+
+- Hit <kbd>Enter</kbd> when search textbox is active in Find dialog.
+- Press '>' on find dialog.
+- Do <kbd>F3</kbd>
+
+For replace, we support two options: Replace Next & Replace All.
 
 ![find-replace](https://user-images.githubusercontent.com/13361448/46593184-7a206680-cae7-11e8-9388-31ce79fb315a.png)
 
 ### 7. Highlight Similar words
+Another cool feature of Sampadak is **highligting similar words**. When user `double click` on any word, Sampadak will highlight all the similar words on that document. This will help user to do quick search for any key word or any function or other valuable information. Sampadak highlight exactly similar words. 
 
 ![similar words](https://user-images.githubusercontent.com/13361448/46593205-9d4b1600-cae7-11e8-86a4-66b773a1a6f6.png)
 
 ### 8. Preferences
+Preference dialog having all the settings related to Sampadak. We made preference options live, when user do any changes in any option in preference dialog its execute immediately. To open Preference dialog, click `Settings -> Preferences`.
+
+User can reset to default preferences by clicking `Reset` button.
+
+Preference dialog has following five sections, those are as follows:
+
+* View :
+
 ![view](https://user-images.githubusercontent.com/13361448/46593238-e1d6b180-cae7-11e8-914c-d9fe44adeb2a.png)
+
+* Editor :
+
 ![editor](https://user-images.githubusercontent.com/13361448/46593243-f0bd6400-cae7-11e8-89e6-42654672d82c.png)
+
+* Font & Color :
+
 ![fontncolor](https://user-images.githubusercontent.com/13361448/46593247-003cad00-cae8-11e8-96f1-ea1062d14f04.png)
+
+* Document :
+
 ![document](https://user-images.githubusercontent.com/13361448/46593253-0c286f00-cae8-11e8-8647-2a8ba40ae798.png)
+
+* Default Directory :
+
 ![default directory](https://user-images.githubusercontent.com/13361448/46593258-15b1d700-cae8-11e8-99c3-0292ca012719.png)
 
+## Report a Problem
+User can report for a bug or any feature enhancement. To report a problem or enhancement requist, click `Help -> Report a Problem...` nemu.
+
+This will redirect to following link:
+
+[Sampadak issue tracker](https://github.com/abhinath84/Sampadak/issues)
+
+Now, click on `New issue` and follow the process.
 
 ## Future Plans
 
