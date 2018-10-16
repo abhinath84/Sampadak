@@ -36,4 +36,4 @@ Please download Sampadak setup (Windows) from the ![Releases](https://github.com
 - Two Document Editor support
 
 ## License
-[GNU General Public License v3.0](https://github.com/abhinath84/Sampadak/blob/master/LICENSE)
+![GNU General Public License v3.0](https://github.com/abhinath84/Sampadak/blob/master/LICENSE)
