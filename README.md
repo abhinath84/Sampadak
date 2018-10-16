@@ -144,6 +144,10 @@ Preference dialog has following five sections, those are as follows:
 
 ![default directory](https://user-images.githubusercontent.com/13361448/46593258-15b1d700-cae8-11e8-99c3-0292ca012719.png)
 
+## Installation
+
+Please download Sampadak setup (Windows) from the ![Releases](https://github.com/abhinath84/Sampadak/releases) page.
+
 ## Report a Problem
 User can report for a bug or any feature enhancement. To report a problem or enhancement requist, click `Help -> Report a Problem...` nemu.
 
