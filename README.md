@@ -29,7 +29,7 @@ Please download Sampadak setup (Windows) from the ![Releases](https://github.com
 ## Future Plans
 
 - Plug-in support
-- More File type Syntax highlighter
+- Syntax highlighter for more file types
 - Image file support
 - Two Document Editor support
 
