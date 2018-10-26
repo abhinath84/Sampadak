@@ -19,7 +19,7 @@ Sampadak supports most of the common text editor features. Below is the list of 
 - Toggle braces
 - Preferences
 
-To know more about **highlighting** features, please visit ![Features wiki](https://github.com/abhinath84/Sampadak/wiki/Features) page.
+To know more about **highlighting** features, please visit ![Features](https://github.com/abhinath84/Sampadak/wiki/Features) wiki page.
 
 ## Installation
 
