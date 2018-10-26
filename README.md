@@ -1,10 +1,13 @@
 # Sampadak
+
+![Light Color Scheme](https://user-images.githubusercontent.com/13361448/47334245-dd8fc400-d6a3-11e8-8d8d-0362e0145468.png)
+
 A Unicode supporter Text editor.
 
 An `open-source project` which supports all major Operating System - **Windows, Linux, MacOS**.
-Sampadak editor is based on `QT framework`. Currently we support **three color scheme**, those are as follows:
+Sampadak editor is based on `QT framework`.
 
-![Light Color Scheme](https://user-images.githubusercontent.com/13361448/47334245-dd8fc400-d6a3-11e8-8d8d-0362e0145468.png)
+To know more about Sampadak, please visit ![wiki](https://github.com/abhinath84/Sampadak/wiki) page.
 
 ## Features
 Sampadak supports most of the common text editor features. Below is the list of it's **higlighting** features:
@@ -18,9 +21,8 @@ Sampadak supports most of the common text editor features. Below is the list of 
 - Highlight Similar words
 - Toggle braces
 - Preferences
-- Report a problem
 
-To know more about **highlighting** features, please visit ![wiki](https://github.com/abhinath84/Sampadak/wiki) page.
+To know more about **highlighting** features, please visit ![Features](https://github.com/abhinath84/Sampadak/wiki/Features) wiki page.
 
 ## Installation
 
