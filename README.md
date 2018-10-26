@@ -18,7 +18,6 @@ Sampadak supports most of the common text editor features. Below is the list of 
 - Highlight Similar words
 - Toggle braces
 - Preferences
-- Report a problem
 
 To know more about **highlighting** features, please visit ![wiki](https://github.com/abhinath84/Sampadak/wiki) page.
 
